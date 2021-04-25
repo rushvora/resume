@@ -1,0 +1,94 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Rushabh Vora",
+    "label": "Software Engineer",
+    "email": "imp@rushvora.com",
+    "phone": "+919987145272 | +1-814-367-3889",
+    "website": "https://rushvora.com",
+    "location": {
+      "address": "Walkeshwar Road",
+      "city": "Mumbai",
+      "countryCode": "IN"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "rushvora",
+        "url": "https://github.com/rushvora"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "Rushabh Vora",
+        "url": "https://www.linkedin.com/in/rushvora/"
+      },
+      {
+        "network": "Twitter",
+        "username": "rushvora",
+        "url": "https://twitter.com/rushvora"
+      }
+    ]
+  },
+  "skills": [
+    {
+      "name": "MEAN Stack Developer",
+      "keywords": [
+        "Node.js",
+        "Typescript",
+        "Angular",
+        "MongoDB",
+        "Bootstrap"
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Delivery Solutions",
+      "description": "Delivery Aggregator Based In USA",
+      "position": "Senior Software Engineer",
+      "url": "https://www.deliverysolutions.co/",
+      "startDate": "2020-08-01",
+      "summary": "Delivery Solutions enables enterprise grade Home Delivery for Retail.",
+      "highlights": [
+        "Integrated multiple delivery providers into the Delivery Solutions platform's various microservices",
+        "Designed & developed an Angular 8 based responsive website that served as a live tracking page for end customers",
+        "Built a domain whitelabeling feature for the above mentioned live tracking page",
+        "Worked & communicated directly with USA based clients in order to provide solutions and gather requirements",
+        "Part of incident response team, handling all incidents that impacted deliveries to customers and client operations",
+        "Developed & maintained a variety of scripts that directly interacted with the production database, AWS API Gateway & Cloudwatch Logs, for the purpose of recovering from incidents"
+      ]
+    },
+    {
+      "company": "Tacto",
+      "description": "Technology Consulting & Software Development Company",
+      "position": "Software Engineer, Delivery Solutions Team",
+      "url": "https://www.tacto.in/",
+      "startDate": "2019-07-17",
+      "endDate": "2020-07-31",
+      "summary": "Part of a dedicated team within Tacto focused on servicing Delivery Solutions",
+      "highlights": [
+        "Spearheaded the migration of the frontend from Angular 4 to Angular 8",
+        "Handled the revamp of the frontend, utilising Dashkit (Bootstrap 4) to replace Inspinia theme",
+        "Refactored the Angular website in order to break up the single root module with all components & services into isolated modules",
+        "Implemented lazy loading, Angular PWA, service worker, which resulted in much faster render times, as well as the ability to check and fetch the latest version of the website",
+        "Got promoted from Junior Software Engineer to Software Engineer in 6 months (January 2020), and again from Software Engineer to Senior Software Engineer in 6 months (June 2020)"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "San Francisco State University",
+      "url": "https://cs.sfsu.edu/",
+      "area": "Computer Science",
+      "studyType": "Bachelor of",
+      "startDate": "2014-08-11",
+      "endDate": "2018-12-20"
+    }
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "theme": "jsonresume-theme-spartacus-prime",
+    "version": "v1.0.0",
+    "lastModified": "2021-04-25T15:53:00"
+  }
+}
