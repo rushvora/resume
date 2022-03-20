@@ -45,11 +45,24 @@
     {
       "company": "Delivery Solutions",
       "description": "Delivery Aggregator Based In USA",
-      "position": "Senior Software Engineer",
+      "position": "Associate Technical Lead",
       "url": "https://www.deliverysolutions.co/",
-      "startDate": "2020-08-01",
+      "startDate": "2022-03-01",
       "summary": "Delivery Solutions enables enterprise grade Home Delivery for Retail.",
       "highlights": [
+        "Continued leading and growing a team of engineers within the product team",
+        "Led the rewrite of a core feature - stores' service coverage mapping where clients can create and draw various boundaries to determine both availaiblity and methodology of fulfillment. The rewrite resulted in improved performance (5x-6x) and usability thanks to a reimagined user interface."
+      ]
+    },
+    {
+      "company": "Delivery Solutions",
+      "position": "Senior Software Engineer",
+      "startDate": "2020-08-01",
+      "endDate": "2022-03-01",
+      "highlights": [
+        "Led a team focusing on product development, managing and mentoring software engineers",
+        "Led the development of features for the product",
+        "Involved in the hiring of senior software engineers for the product team",
         "Integrated multiple delivery providers into the Delivery Solutions platform's various microservices",
         "Designed & developed an Angular 8 based responsive website that served as a live tracking page for end customers",
         "Built a domain whitelabeling feature for the above mentioned live tracking page",
@@ -71,7 +84,7 @@
         "Handled the revamp of the frontend, utilising Dashkit (Bootstrap 4) to replace Inspinia theme",
         "Refactored the Angular website in order to break up the single root module with all components & services into isolated modules",
         "Implemented lazy loading, Angular PWA, service worker, which resulted in much faster render times, as well as the ability to check and fetch the latest version of the website",
-        "Got promoted from Junior Software Engineer to Software Engineer in 6 months (January 2020), and again from Software Engineer to Senior Software Engineer in 6 months (June 2020)"
+        "Got promoted quickly from Junior Software Engineer to Software Engineer to Senior Software Engineer within a year's time"
       ]
     }
   ],

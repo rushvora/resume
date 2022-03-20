@@ -1,0 +1,29 @@
+{
+  "name": "rushabh-vora-resume",
+  "version": "1.0.0",
+  "description": "Utilsing [resume-cli](https://github.com/jsonresume/resume-cli) and various themes to create the resumes.",
+  "dependencies": {
+    "jsonresume-theme-apage": "^1.0.2",
+    "jsonresume-theme-even": "^0.17.0",
+    "jsonresume-theme-modern": "^0.0.9",
+    "jsonresume-theme-onepage-updated": "^1.0.3",
+    "jsonresume-theme-paper": "^0.5.0",
+    "jsonresume-theme-spartacus-prime": "^1.0.6",
+    "jsonresume-theme-stackoverflow": "^1.4.0",
+    "jsonresume-theme-stackoverflow-ibic": "^1.4.5",
+    "resume-cli": "^3.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rushvora/resume.git"
+  },
+  "author": "Rushabh Vora",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rushvora/resume/issues"
+  },
+  "homepage": "https://github.com/rushvora/resume#readme"
+}
